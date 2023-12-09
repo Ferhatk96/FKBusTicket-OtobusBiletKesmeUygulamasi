@@ -1,0 +1,13 @@
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\bin\Debug\FK Bus Ticket App.exe.config
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\bin\Debug\FK Bus Ticket App.exe
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\bin\Debug\FK Bus Ticket App.pdb
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\obj\Debug\FK Bus Ticket App.csproj.AssemblyReference.cache
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\obj\Debug\FK_Bus_Ticket_App.Form1.resources
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\obj\Debug\FK_Bus_Ticket_App.Kayit.resources
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\obj\Debug\FK_Bus_Ticket_App.Properties.Resources.resources
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\obj\Debug\FK Bus Ticket App.csproj.GenerateResource.cache
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\obj\Debug\FK Bus Ticket App.csproj.CoreCompileInputs.cache
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\obj\Debug\FK Bus Ticket App.exe
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\obj\Debug\FK Bus Ticket App.pdb
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\obj\Debug\FK_Bus_Ticket_App.AdminPanel.resources
+C:\Users\FK-\source\repos\FK Bus Ticket App\FK Bus Ticket App\obj\Debug\FK_Bus_Ticket_App.Giris.resources
