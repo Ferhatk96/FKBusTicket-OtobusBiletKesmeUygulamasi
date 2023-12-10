@@ -12,7 +12,7 @@ Giriş panelinde, kullanıcı isterse, "Beni Hatırla" Özelliği ile kullanıc�
 Admin, kullanıcı oluşturabilir, yetkiler verip alabilir, güncelleyebilir ve silebilir. Müşteri bilgilerini güncelleyebilir, silebilir veya çıktısını alabilir. Bölge fiyatlarını güncelleyebilir.
 Sağ alt tarafta ise, Toplam kazancı görebilecektir.
 
-![2](https://github.com/Ferhatk96/FKBusTicket-OtobusKayitUygulamasi/assets/137729751/a3f2c89b-3241-46f8-9d1f-9500f6fd2456)
+![screen](https://github.com/Ferhatk96/FKBusTicket-OtobusKayitUygulamasi/assets/137729751/250d99cc-5c23-4915-9933-a2acdd4763f4)
 
 
 Otobüs Koltuk Ekleme ekranında ise, butonlar vardır. Boş koltuk yeşil, dolu olanlarsa kırmızı ile gösterilmektedir. Bu pencerede kullanıcı otobüsün hangi şehirden kalkıp hangi şehire varacağını ve saat bilgilerini güncelleyebilir.
